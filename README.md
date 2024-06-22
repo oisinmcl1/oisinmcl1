@@ -42,3 +42,6 @@ I have a keen interest in software development, web technologies, and solving co
 - [**Snooker Scoring**](https://github.com/oisinmcl1/snooker): A personal project I worked on that can be used to calculate score in frames of snooker.
 - [**System Admin Scripts**](https://github.com/oisinmcl1/TrojanTech): Some of the scripts I worked on during my System Admin Summer Internship at Trojan Technologies.
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oisinmcl1)](https://github.com/oisinmcl1/github-readme-stats)
