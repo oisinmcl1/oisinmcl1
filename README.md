@@ -8,8 +8,7 @@
 ---
 
 ### About Me
-I have a keen interest in software development, web technologies, and solving complex problems. 
-I enjoy learning new technologies and applying them in my projects.
+I have a keen interest in software development, web technologies, and solving complex problems. <br>I enjoy learning new technologies and applying them in my projects.
 
 📫 [omclaughlin99@gmail.com](mailto:omclaughlin99@gmail.com)
 
