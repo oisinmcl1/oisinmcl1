@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="/mnt/data/image.png" alt="University of Galway Logo" style="width: 300px;"/>
+  <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" alt="University of Galway Logo" style="width: 300px;"/>
 </p>
 
 ---
@@ -45,3 +45,9 @@ I am a passionate Computer Science student at the University of Galway. I have a
 - [**Busker's Brightest**](https://github.com/oisinmcl1/Buskers-Brightest-Final): A group project for my Software Engineering module that aims to solve the problem of queuing at a bar.
 - [**Snooker Scoring**](https://github.com/oisinmcl1/snooker): A personal project I worked on that can be used to calculate score in frames of snooker.
 - [**System Admin Scripts**](https://github.com/oisinmcl1/TrojanTech): Some of the scripts I worked on during my System Admin Summer Internship at Trojan Technologies.
+
+---
+
+<p align="center">
+  <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" alt="University of Galway Logo" style="width: 300px;"/>
+</p>
