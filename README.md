@@ -2,11 +2,7 @@
 <h3 align="center">Computer Science Student at the University Of Galway</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username" width="150" height="150" alt="Oisín's Profile Picture"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/your-username/your-repo/banner.png" alt="Banner Image"/>
+  <img src="https://avatars.githubusercontent.com/u/oisinmcl1" width="150" height="150" alt="Oisín's Profile Picture"/>
 </p>
 
 ---
@@ -14,7 +10,7 @@
 ### About Me
 I am a passionate Computer Science student at the University of Galway. I have a keen interest in software development, web technologies, and solving complex problems. I enjoy learning new technologies and applying them in my projects.
 
-- 📫 How to reach me: [omclaughlin99@gmail.com](mailto:omclaughlin99@gmail.com)
+📫 How to reach me: [omclaughlin99@gmail.com](mailto:omclaughlin99@gmail.com)
 
 ---
 
@@ -35,7 +31,7 @@ I am a passionate Computer Science student at the University of Galway. I have a
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Oisín's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oisinmcl1&show_icons=true&theme=radical" alt="Oisín's GitHub stats"/>
 </p>
 
 ---
@@ -57,6 +53,6 @@ I am a passionate Computer Science student at the University of Galway. I have a
 
 ### 📊 Recent GitHub Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark&hide_border=true" alt="Oisín's GitHub Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=oisinmcl1&theme=react-dark&hide_border=true" alt="Oisín's GitHub Activity Graph"/>
 </p>
 
