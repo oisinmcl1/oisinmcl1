@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student at the University Of Galway</h3>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/en/8/84/National_University_of_Ireland%2C_Galway_logo.png](https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg)" width="150" height="150" alt="University of Galway Logo"/>
+  <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" width="150" height="150" alt="University of Galway Logo"/>
 </p>
 
 ---
