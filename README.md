@@ -2,10 +2,6 @@
 <h3 align="center">Computer Science Student at the University Of Galway</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/oisinmcl1" width="150" height="150" alt="Oisín's Profile Picture"/>
-</p>
-
-<p align="center">
   <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" alt="University of Galway Logo" style="width: 300px;"/>
 </p>
 
@@ -46,8 +42,3 @@ I am a passionate Computer Science student at the University of Galway. I have a
 - [**Snooker Scoring**](https://github.com/oisinmcl1/snooker): A personal project I worked on that can be used to calculate score in frames of snooker.
 - [**System Admin Scripts**](https://github.com/oisinmcl1/TrojanTech): Some of the scripts I worked on during my System Admin Summer Internship at Trojan Technologies.
 
----
-
-<p align="center">
-  <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" alt="University of Galway Logo" style="width: 300px;"/>
-</p>
