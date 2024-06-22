@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oisín</h1>
-<h3 align="center">Computer Science Student at the University Of Galway</h3>
+<h3 align="center">A Computer Science Student at the University Of Galway</h3>
 
 <p align="center">
   <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" alt="University of Galway Logo" style="width: 300px;"/>
