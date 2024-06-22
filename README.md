@@ -5,12 +5,16 @@
   <img src="https://avatars.githubusercontent.com/u/oisinmcl1" width="150" height="150" alt="Oisín's Profile Picture"/>
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/84/National_University_of_Ireland%2C_Galway_logo.png" width="150" height="150" alt="University of Galway Logo"/>
+</p>
+
 ---
 
 ### About Me
 I am a passionate Computer Science student at the University of Galway. I have a keen interest in software development, web technologies, and solving complex problems. I enjoy learning new technologies and applying them in my projects.
 
-📫 How to reach me: [omclaughlin99@gmail.com](mailto:omclaughlin99@gmail.com)
+📫 [omclaughlin99@gmail.com](mailto:omclaughlin99@gmail.com)
 
 ---
 
@@ -29,13 +33,6 @@ I am a passionate Computer Science student at the University of Galway. I have a
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oisinmcl1&show_icons=true&theme=radical" alt="Oisín's GitHub stats"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/oisinmclaughlinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oisinmclaughlinn" height="30" width="40" /></a>
@@ -45,14 +42,6 @@ I am a passionate Computer Science student at the University of Galway. I have a
 ---
 
 ### 📝 Featured Projects
-- [**Project 1**](https://github.com/oisinmcl1/Buskers-Brightest-Final): A group project for my Software Engineering module that aims to solve the problem of queuing at a bar.
-- [**Project 2**](https://github.com/oisinmcl1/snooker): A personal project I worked on that can be used to calculate score in frames of snooker.
-- [**Project 3**](https://github.com/oisinmcl1/TrojanTech): Some of the scripts I worked on during my System Admin Summer Internship at Trojan Technologies.
-
----
-
-### 📊 Recent GitHub Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=oisinmcl1&theme=react-dark&hide_border=true" alt="Oisín's GitHub Activity Graph"/>
-</p>
-
+- [**Busker's Brightest**](https://github.com/oisinmcl1/Buskers-Brightest-Final): A group project for my Software Engineering module that aims to solve the problem of queuing at a bar.
+- [**Snooker Scoring**](https://github.com/oisinmcl1/snooker): A personal project I worked on that can be used to calculate score in frames of snooker.
+- [**System Admin Scripts**](https://github.com/oisinmcl1/TrojanTech): Some of the scripts I worked on during my System Admin Summer Internship at Trojan Technologies.
