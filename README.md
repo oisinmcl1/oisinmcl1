@@ -44,4 +44,7 @@ I have a keen interest in software development, web technologies, and solving co
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oisinmcl1)](https://github.com/oisinmcl1/github-readme-stats)
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oisinmcl1&hide=Rich%20Text%20Format)](https://github.com/oisinmcl1/github-readme-stats)
+
