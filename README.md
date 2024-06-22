@@ -2,7 +2,11 @@
 <h3 align="center">Computer Science Student at the University Of Galway</h3>
 
 <p align="center">
-  <img src="https://enlight-eu.org/images/logos/Logo-UGalway-2.jpg" width="150" height="150" alt="University of Galway Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/oisinmcl1" width="150" height="150" alt="Oisín's Profile Picture"/>
+</p>
+
+<p align="center">
+  <img src="/mnt/data/image.png" alt="University of Galway Logo" style="width: 300px;"/>
 </p>
 
 ---
