@@ -48,6 +48,7 @@ I have a keen interest in software development, web technologies, and solving co
 
 ### Stats
 
-![oisinmcl1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oisinmcl1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![oisinmcl1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oisinmcl1&theme=vue-dark&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oisinmcl1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="oisinmcl1's Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oisinmcl1&theme=vue-dark&hide_border=true" alt="oisinmcl1's Streak" height="180px"/>
+</p>
