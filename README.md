@@ -44,7 +44,7 @@ I have a keen interest in software development, web technologies, and solving co
 
 ### 📝 Featured Projects
 - [**Busker's Brightest**](https://github.com/oisinmcl1/Buskers-Brightest-Final): A group project for my Software Engineering module that aims to solve the problem of queuing at a bar.
-- [**Dead Ops Arcade**]((https://github.com/oisinmcl1/DeadOpsArcade)): A remake of Dead Ops Arcade from Call of Duty in Unity.
+- [**Dead Ops Arcade**](https://github.com/oisinmcl1/DeadOpsArcade): A remake of Dead Ops Arcade from Call of Duty in Unity.
 - [**System Admin Scripts**](https://github.com/oisinmcl1/TrojanTech): Some of the scripts I worked on during my System Admin Summer Internship at Trojan Technologies.
 
 ---
