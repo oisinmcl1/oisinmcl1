@@ -53,5 +53,5 @@ I have a keen interest in software development, web technologies, and solving co
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oisinmcl1&theme=algolia&show_icons=true&hide_border=true&layout=compact&v=3&cache_bust=3" alt="oisinmcl1's Top Languages" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=oisinmcl1&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oisinmcl1&theme=algolia&hide_border=true" height="180px"/>
 </p>
