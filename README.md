@@ -25,7 +25,7 @@ BSc Computer Science
 
 **Currently Building**
 
-<img src="https://trojan-technologies.com/wp-content/themes/trojan/dist/images/lg_trojan-white.svg" height="100" alt="Trojan Technologies"/>
+<img src="https://trojan-technologies.com/assets/trojan-logo-B9njZKue.svg" height="60" width="200" alt="Trojan Technologies"/>
 
 Juno AI
 
